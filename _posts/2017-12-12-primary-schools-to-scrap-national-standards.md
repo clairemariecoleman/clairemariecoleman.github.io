@@ -1,8 +1,9 @@
 ---
+title: Primary schools to scrap national standards
+date: 2017-12-12 06:37:39 Z
+categories:
+- news
 layout: post
-title:  "Primary schools to scrap national standards"
-date:   2017-12-12 19:37:39 +1300
-categories: news
 ---
 
 #**BREAKING** It's official!

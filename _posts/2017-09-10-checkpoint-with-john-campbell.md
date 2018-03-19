@@ -1,8 +1,9 @@
 ---
+title: Checkpoint with John Campbell
+date: 2017-09-10 03:37:39 Z
+categories:
+- news
 layout: post
-title:  "Checkpoint with John Campbell"
-date:   2017-09-10 16:37:39 +1300
-categories: news
 ---
 
 How do lunches at different decile schools compare? An Auckland school principal says up to half of the children at his decile 1 school arrive hungry, and child poverty is being swept under the carpet.

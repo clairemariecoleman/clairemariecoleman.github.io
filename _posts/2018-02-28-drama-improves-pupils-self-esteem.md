@@ -1,8 +1,9 @@
 ---
+title: Drama improves pupils' self-esteem, study finds
+date: 2018-02-28 21:37:39 Z
+categories:
+- news
 layout: post
-title:  "Drama improves pupils' self-esteem, study finds"
-date:   2018-03-01 10:37:39 +1300
-categories: news
 ---
 
 Absolutely right. We drama teachers having been saying it for decades!

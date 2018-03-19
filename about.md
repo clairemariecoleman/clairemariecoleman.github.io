@@ -1,7 +1,7 @@
 ---
-layout: page
 title: About
-permalink: /about/
+permalink: "/about/"
+layout: page
 ---
 
 I began my career in education as a puppeteer in a disability awareness education programme. Since then I have taught both general primary school and specialist drama in a variety of educational settings. I discovered process drama through my studies in the Postgraduate diploma in Education and went on to gain my Masters in Education at the University of Sydney. I am currently completing my doctorate and remain deeply passionate about education and the potential for drama as both an aesthetic artform and an effective pedagogy.
