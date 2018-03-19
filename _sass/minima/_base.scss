@@ -91,7 +91,8 @@ li {
  * Headings
  */
 h1, h2, h3, h4, h5, h6 {
-  font-weight: $base-font-weight;
+  font-weight: 700;
+  font-family: 'Raleway', sans-serif;
 }
 
 
@@ -100,16 +101,17 @@ h1, h2, h3, h4, h5, h6 {
  * Links
  */
 a {
-  color: $brand-color;
+  color: $primary-color;
   text-decoration: none;
+  transition: .2s color ease-in-out;
 
-  &:visited {
-    color: darken($brand-color, 15%);
-  }
+  // &:visited {
+  //   color: lighten($primary-color, 5%);
+  // }
 
   &:hover {
-    color: $text-color;
-    text-decoration: underline;
+    color: darken($primary-color, 25%);
+    text-decoration: none;
   }
 
   .social-media-list &:hover {

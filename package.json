@@ -1,0 +1,19 @@
+{
+  "name": "clairemariecoleman",
+  "version": "1.0.0",
+  "description": "*Minima is a one-size-fits-all Jekyll theme for writers*. It's Jekyll's default (and first) theme. It's what you get when you run `jekyll new`.",
+  "main": "index.md",
+  "dependencies": {
+    "gutenberg-web-type": "^1.2.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/clairemariecoleman"
+  },
+  "author": "",
+  "license": "ISC"
+}
