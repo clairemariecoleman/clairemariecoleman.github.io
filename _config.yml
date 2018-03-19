@@ -10,8 +10,8 @@ collections:
     output: true
 email: claire.coleman@waikato.ac.nz
 description: Copyright 2018
-baseurl: ''
-url: ''
+baseurl: 
+url: 
 facebook_username: clairecolemannz
 markdown: kramdown
 theme: minima
